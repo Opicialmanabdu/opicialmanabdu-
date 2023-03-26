@@ -1,0 +1,2 @@
+# opicialmanabdu-
+Zphisher command 
